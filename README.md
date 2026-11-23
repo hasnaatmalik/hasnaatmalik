@@ -1,20 +1,32 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=44&duration=2500&pause=100000&color=00D4FF&center=true&vCenter=true&width=700&height=80&repeat=false&lines=HASNAAT+MALIK" alt="Hasnaat Malik" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./name-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="./name-light.png">
+    <img src="./name-dark.png" alt="Hasnaat Malik" width="560">
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=A0A0A0&center=true&vCenter=true&width=480&lines=I+build+things+that+ship.;AI+%2B+full-stack+%2B+a+bit+of+Rust.;Lahore%2C+Pakistan." alt="tagline" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1200&color=9CA3AF&center=true&vCenter=true&width=520&lines=I+build+things+that+ship.;AI+%2B+full-stack+%2B+a+bit+of+Rust.;Lahore%2C+Pakistan." alt="tagline" />
 </p>
 
-```text
-> building      AI tools that people actually use
-> experimenting with RAG + agents
-> learning      Docker, Kubernetes, AWS
-> ask me about  Rust, Tauri, Next.js
+<p align="center">
+  <img src="./critters.png" alt="little paper critters: chai, samosa, patang, mango, raindrop" width="520">
+</p>
+
+```bash
+$ whoami
+hasnaat_malik
+
+$ cat now.txt
+building   AI tools people actually use
+exploring  RAG, agents, evals
+learning   Docker, Kubernetes, AWS
+ask me     Rust, Tauri, Next.js
 ```
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,ts,rust,react,nextjs,postgres,docker,aws" />
+  <img src="https://skillicons.dev/icons?i=py,ts,rust,react,nextjs,postgres,docker,aws&theme=dark" />
 </p>
 
 <p align="center">
